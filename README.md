@@ -1,3 +1,1 @@
-# Vagrant - or - how to code in your local computer
-## learning objectives
-
+*This file is mandatory in projects*
